@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","29","test_that_country_is_US","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:54 UTC 2026","","test_api","",""
+"","1","test_anonymize_data_updates_names","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:54 UTC 2026","","test_db","",""
+"","0","test_that_file_handling_works","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:54 UTC 2026","","test_file","",""
+"","1","test_clear_test_data_empties_table","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:54 UTC 2026","","test_db","",""
+"","1","test_init_db_adds_default_users","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:54 UTC 2026","","test_db","",""
+"","1564","test_pet_full_lifecycle","tests","Sun Feb 15 23:28:54 UTC 2026","passed","Sun Feb 15 23:28:55 UTC 2026","","test_petsore","",""
