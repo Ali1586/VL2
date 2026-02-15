@@ -1,3 +1,3 @@
 # VL2
 
-Ett annat försök att förbättre mitt förstålese i CI/CD 
+Testa api samt databas och visar resultat i allure test report

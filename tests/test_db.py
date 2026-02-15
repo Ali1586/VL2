@@ -1,7 +1,5 @@
 import pytest
-import sqlite3
-import os
-from database_manager import init_db, connect, anonymize_data, clear_test_data
+from src.database_manager import init_db, connect, anonymize_data, clear_test_data
 
 
 # En "fixture" som ser till att vi har en ren databas inför testerna
