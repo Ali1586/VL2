@@ -1,4 +1,4 @@
-name: Python Test Automation with Allure
+                  name: Python Test Automation with Allure
 
 on:
   push:
